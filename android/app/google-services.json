@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "285268790606",
+    "project_id": "rk-plast-cf3c7",
+    "storage_bucket": "rk-plast-cf3c7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:285268790606:android:49190863a2ff233c69621f",
+        "android_client_info": {
+          "package_name": "com.rkplast.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnE-B1nGnY-_wBw6NGkGOntzKLB0BjdSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
